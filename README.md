@@ -31,4 +31,4 @@ Direct credit card, Apple Pay, Google Pay, and bank-backed payment processing po
   - 5 PRs ([#3793](https://github.com/limitlessprojects/Go-Hybrid/pull/3793), [#3796](https://github.com/limitlessprojects/Go-Hybrid/pull/3796), [#3808](https://github.com/limitlessprojects/Go-Hybrid/pull/3808), [#3825](https://github.com/limitlessprojects/Go-Hybrid/pull/3825), [#3831](https://github.com/limitlessprojects/Go-Hybrid/pull/3831)) + Spec [#3801](https://github.com/limitlessprojects/Go-Hybrid/issues/3801) ($1,250 USDC)
 - **Mergit Protocol Escrow:**
   - Registered Identity & PR [#18](https://github.com/odiseo159-beep/mergit/pull/18) (`Closes #17`)
-  - Escrow Address (Base / EVM USDC): `0x38e0f40371be8b30f0909f890a1f701a25cd30cd`
+  - Mergit Escrow Address (Base / EVM USDC): `0x38e0f40371be8b30f0909f890a1f701a25cd30cd`
