@@ -3,6 +3,7 @@
 Founder & Lead Engineer at **Aurelis**. Specializing in autonomous software tools, distributed systems, privacy protocols, and Web3/Solana engineering.
 
 🌐 **Agency Website & Storefront:** [https://bradwue313.github.io](https://bradwue313.github.io)
+📧 **Direct Inquiries:** [aurelis.work@gmail.com](mailto:aurelis.work@gmail.com)
 
 ---
 
