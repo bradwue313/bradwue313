@@ -28,7 +28,8 @@ Direct credit card, Apple Pay, Google Pay, and bank-backed payment processing po
   - Bug #2: [Issue #1406](https://github.com/paraloom-labs/paraloom-core/issues/1406) + [PR #1407](https://github.com/paraloom-labs/paraloom-core/pull/1407) ($150 USDC)
   - Payout Address (SOL / USDC): `CRdpAku2qovsPN2wGej5AbgMNtuhRQtq3GKFDFfMkJsv`
 - **Compiler Engineer (Go-Hybrid):**
-  - 5 PRs ([#3793](https://github.com/limitlessprojects/Go-Hybrid/pull/3793), [#3796](https://github.com/limitlessprojects/Go-Hybrid/pull/3796), [#3808](https://github.com/limitlessprojects/Go-Hybrid/pull/3808), [#3825](https://github.com/limitlessprojects/Go-Hybrid/pull/3825), [#3831](https://github.com/limitlessprojects/Go-Hybrid/pull/3831)) + Spec [#3801](https://github.com/limitlessprojects/Go-Hybrid/issues/3801) ($1,250 USDC)
+  - **[PR #3793](https://github.com/limitlessprojects/Go-Hybrid/pull/3793) & [PR #3796](https://github.com/limitlessprojects/Go-Hybrid/pull/3796) MERGED into main** with official CREDIT: @bradwue313 and bounty eligibility recorded.
+  - 3 PRs under review ([#3808](https://github.com/limitlessprojects/Go-Hybrid/pull/3808), [#3825](https://github.com/limitlessprojects/Go-Hybrid/pull/3825), [#3831](https://github.com/limitlessprojects/Go-Hybrid/pull/3831)) + Spec [#3801](https://github.com/limitlessprojects/Go-Hybrid/issues/3801).
 - **Mergit Protocol Escrow:**
   - Registered Identity & PR [#18](https://github.com/odiseo159-beep/mergit/pull/18) (`Closes #17`)
   - Mergit Escrow Address (Base / EVM USDC): `0x38e0f40371be8b30f0909f890a1f701a25cd30cd`
